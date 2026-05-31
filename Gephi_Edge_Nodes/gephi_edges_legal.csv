@@ -1,0 +1,39 @@
+Source,Target,Weight,legal_prop,legal_weight,dominant_document_group,Type
+Adriana Mucinska,Alan M. Dershowitz,2,1.0,2,legal,Undirected
+Adriana Mucinska,Bill Clinton,2,0.6666666666666666,2,legal,Undirected
+Al Gore,Ghislaine Maxwell,1,0.3333333333333333,1,media,Undirected
+Al Gore,Lawrence Summers,0,0.0,0,communication,Undirected
+Al Gore,Virginia Roberts Giuffre,1,0.125,1,media,Undirected
+Alan M. Dershowitz,Bill Clinton,3,0.5,3,media,Undirected
+Alan M. Dershowitz,Donald Trump,1,0.08333333333333333,1,media,Undirected
+Alan M. Dershowitz,Ghislaine Maxwell,9,0.8181818181818182,9,legal,Undirected
+Alan M. Dershowitz,Nadia Marcinkova,4,1.0,4,legal,Undirected
+Alan M. Dershowitz,"Prince Andrew, Duke of York",3,0.75,3,legal,Undirected
+Alan M. Dershowitz,Sarah Kellen,4,0.8,4,legal,Undirected
+Alan M. Dershowitz,Virginia Roberts Giuffre,59,0.6344086021505376,59,legal,Undirected
+Bill Clinton,Chris Tucker,1,0.25,1,media,Undirected
+Bill Clinton,Donald Trump,0,0.0,0,communication,Undirected
+Bill Clinton,Ehud Barak,10,0.11764705882352941,10,media,Undirected
+Bill Clinton,Ghislaine Maxwell,9,0.16981132075471697,9,communication,Undirected
+Bill Clinton,Kevin Spacey,1,0.25,1,media,Undirected
+Bill Clinton,Naomi Campbell,3,1.0,3,legal,Undirected
+Bill Clinton,Sandy Berger,0,0.0,0,communication,Undirected
+Bill Clinton,Sarah Kellen,3,0.5,3,media,Undirected
+Bill Clinton,Virginia Roberts Giuffre,12,0.4444444444444444,12,media,Undirected
+Donald Trump,Donald Trump,0,0.0,0,financial,Undirected
+Donald Trump,Lawrence Summers,0,0.0,0,communication,Undirected
+Donald Trump,Virginia Roberts Giuffre,1,0.3333333333333333,1,media,Undirected
+Ehud Barak,Ghislaine Maxwell,0,0.0,0,communication,Undirected
+Ehud Barak,Lawrence Summers,0,0.0,0,communication,Undirected
+Ehud Barak,Sandy Berger,0,0.0,0,media,Undirected
+Ghislaine Maxwell,Lawrence Summers,0,0.0,0,media,Undirected
+Ghislaine Maxwell,Nadia Marcinkova,0,0.0,0,media,Undirected
+Ghislaine Maxwell,"Prince Andrew, Duke of York",5,0.14285714285714285,5,communication,Undirected
+Ghislaine Maxwell,Virginia Roberts Giuffre,45,0.4838709677419355,45,legal,Undirected
+Heidi Klum,Virginia Roberts Giuffre,1,1.0,1,legal,Undirected
+Jean-Luc Didier Henri-Rene Brunel,Naomi Campbell,0,0.0,0,media,Undirected
+Jean-Luc Didier Henri-Rene Brunel,Virginia Roberts Giuffre,2,1.0,2,legal,Undirected
+Nadia Marcinkova,"Prince Andrew, Duke of York",0,0.0,0,media,Undirected
+Naomi Campbell,Virginia Roberts Giuffre,2,0.6666666666666666,2,legal,Undirected
+"Prince Andrew, Duke of York",Sarah Kellen,0,0.0,0,media,Undirected
+"Prince Andrew, Duke of York",Virginia Roberts Giuffre,26,0.4,26,media,Undirected

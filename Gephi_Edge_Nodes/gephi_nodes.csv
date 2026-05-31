@@ -1,0 +1,19 @@
+Id,Label,degree_full,degree_legal,betweenness_full,betweenness_legal,pagerank_full,pagerank_legal,actor_category
+Adriana Mucinska,Adriana Mucinska,5,4,0.0,0.0,0.012,0.018,Epstein associate
+Al Gore,Al Gore,12,2,0.009,0.0,0.016,0.013,political
+Alan M. Dershowitz,Alan M. Dershowitz,137,85,0.107,0.265,0.103,0.178,Epstein associate
+Bill Clinton,Bill Clinton,198,44,0.433,0.457,0.163,0.126,political
+Chris Tucker,Chris Tucker,4,1,0.0,0.0,0.011,0.012,celebrity/media
+Donald Trump,Donald Trump,80,2,0.026,0.0,0.057,0.013,political
+Ehud Barak,Ehud Barak,104,10,0.03,0.0,0.085,0.034,political
+Ghislaine Maxwell,Ghislaine Maxwell,213,69,0.145,0.056,0.147,0.139,Epstein associate
+Heidi Klum,Heidi Klum,1,1,0.0,0.0,0.009,0.011,celebrity/media
+Jean-Luc Didier Henri-Rene Brunel,Jean-Luc Didier Henri-Rene Brunel,4,2,0.0,0.0,0.013,0.013,Epstein associate
+Kevin Spacey,Kevin Spacey,4,1,0.0,0.0,0.011,0.012,celebrity/media
+Lawrence Summers,Lawrence Summers,25,0,0.015,0.0,0.028,0.0,political
+Nadia Marcinkova,Nadia Marcinkova,7,4,0.0,0.0,0.013,0.016,Epstein associate
+Naomi Campbell,Naomi Campbell,8,5,0.021,0.0,0.018,0.02,celebrity/media
+"Prince Andrew, Duke of York","Prince Andrew, Duke of York",107,34,0.025,0.0,0.075,0.068,political
+Sandy Berger,Sandy Berger,4,0,0.0,0.0,0.011,0.0,political
+Sarah Kellen,Sarah Kellen,12,7,0.007,0.0,0.016,0.024,Epstein associate
+Virginia Roberts Giuffre,Virginia Roberts Giuffre,295,149,0.277,0.394,0.211,0.303,Epstein associate
